@@ -2,9 +2,9 @@
   "name": "react_from_scratch",
   "version": "0.0.1",
   "description": "",
-  "main": "app.js",
+  "main": "server-bundle.js",
   "scripts": {
-    "dev": "node_modules/webpack/bin/webpack.js && node server-bundle.js"
+    "dev": "node_modules/webpack/bin/webpack.js --watch"
   },
   "author": "",
   "license": "ISC",
