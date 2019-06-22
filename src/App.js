@@ -4,7 +4,7 @@ import "./App.css";
 class MyComponent extends React.Component {
   render() {
     return (
-      <h3>Hello, everyone!</h3>
+      <h3>Hello, World!</h3>
     );
   }
 }
